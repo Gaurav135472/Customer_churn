@@ -1,0 +1,6 @@
+,Outliers Count,Normality Stat,Normality P-Value,Skewness,Transformation
+review,14,794.5491286136864,2.9231353234103246e-173,5.844790493252163,Log Transformation Recommended
+rating,0,284.6935136600823,1.5121295201896111e-62,2.1858921937959805,Log Transformation Recommended
+sentiment_score,43,337.68065840622006,4.716031577376901e-74,2.4686188856874565,Log Transformation Recommended
+sentiment_magnitude,12,537.1890871780236,2.24321990497418e-117,3.369637154582403,Log Transformation Recommended
+confidence,0,146.62609715398688,1.4472633072919791e-32,0.46423242988203645,No Transformation Needed
